@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+[![Henry's GitHub stats](https://github-readme-stats.vercel.app/api?username=hen-wood)](https://github.com/dhaaaf/github-readme-stats)
 <!--
 **hen-wood/hen-wood** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
