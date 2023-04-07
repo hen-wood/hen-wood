@@ -7,7 +7,7 @@ I'm a recent graduate of App Academy's 6 month immersive full stack web developm
 - 🧑‍🎨 I'm also interested in volunteering my time for any cool projects that are for a good cause...
 - ✏️ I’m currently working on my project Drawsome, which is a fun multiplayer drawing game! 
 
-While you're here, check out my original project [drawsome](https://drawsome-game.onrender.com/login), or my clones of [Meetup.com](https://meetup-clone-p32k.onrender.com/) and [Discord](https://discordance.onrender.com/)!
+While you're here, check out my original project [drawsome](https://drawsome.onrender.com/login), or my clones of [Meetup.com](https://meetdown.onrender.com/) and [Discord](https://discordance-kqe3.onrender.com/)!
 
 # Project Highlights
 
